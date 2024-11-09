@@ -1,0 +1,1 @@
+This is to open or create a txt file.
